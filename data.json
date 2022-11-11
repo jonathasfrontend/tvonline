@@ -1,0 +1,314 @@
+[
+    {
+        "filmesseries": [
+            {
+                "id": 1,
+                "title": "Assistir Cinemax",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",
+                "slug": "assistir-cinemax"
+            },
+            {
+                "id": 2,
+                "title": "Assistir Megapix",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=megapix",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",
+                "slug":"assistir-megapix"
+            },
+            {
+                "id": 3,
+                "title": "Assistir Space",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=space",
+                "image": "https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png",
+                "slug": "assistir-space"
+            },
+            {
+                "id": 4,
+                "title": "Assistir FX",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=fx",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",
+                "slug": "assistir-fx"
+            },
+        
+            {
+                "id": 5,
+                "title": "Assistir HBO",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hbo",
+                "image": "https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png",
+                "slug": "assistir-hbo"
+            },
+            {
+                "id": 6,
+                "title": "Assistir HBO 2",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hbo2",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png",
+                "slug": "assistir-hbo2"
+            },
+            {
+                "id": 7,
+                "title": "Assistir HBO Famaly",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hbofamily",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png",
+                "slug": "assistir-hbofamily"
+            },
+            {
+                "id": 8,
+                "title": "Assistir HBO Mundi",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hbomundi",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png",
+                "slug": "assistir-hbomundi"
+            },
+        
+            {
+                "id": 9,
+                "title": "Assistir HBO +",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hboplus",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+                "slug": "assistir-hboplus"
+            },
+            {
+                "id": 10,
+                "title": "Assistir HBO POP",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hbopop",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",
+                "slug": "assistir-hbopop"
+            },
+            {
+                "id": 11,
+                "title": "Assistir HBO Signature",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hbosignature",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",
+                "slug": "assistir-hbosignature"
+            }
+            ,{
+                "id": 12,
+                "title": "Assistir HBO Xtreme",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hboxtreme",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",
+                "slug": "assistir-hboxtreme"
+            }
+            ,{
+                "id": 12,
+                "title": "Assistir Telecine Action",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=telecineaction",
+                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
+                "slug": "assistir-telecineaction"
+            }
+            ,{
+                "id": 13,
+                "title": "Assistir Telecine Cult",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=telecinecult",
+                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-cult-252x252.png",
+                "slug": "assistir-telecinecult"
+            }
+            ,{
+                "id": 14,
+                "title": "Assistir Telecine Fun",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=telecinefun",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png",
+                "slug": "assistir-telecinefun"
+            }
+            ,{
+                "id": 15,
+                "title": "Assistir Telecine Pipoca",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepipoca",
+                "image": "https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png",
+                "slug": "assistir-telecinepipoca"
+            }
+            ,{
+                "id": 16,
+                "title": "Assistir Telecine Premium",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepremium",
+                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
+                "slug": "assistir-telecinepremium"
+            }
+            ,{
+                "id": 17,
+                "title": "Assistir Telecine Touch",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=telecinetouch",
+                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
+                "slug": "assistir-telecinetouch"
+            }
+            ,{
+                "id": 18,
+                "title": "Assistir TNT",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=tnt",
+                "image": "https://www.tvmagazine.com.br/imagens/icones/600/tnt.png",
+                "slug": "assistir-tnt"
+            }
+            ,{
+                "id": 19,
+                "title": "Assistir TNT Series",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=tntseries",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+                "slug": "assistir-tntseries"
+            }
+            ,{
+                "id": 20,
+                "title": "Assistir Universal",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=universal",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",
+                "slug": "assistir-universal"
+            }
+            ,{
+                "id": 21,
+                "title": "Assistir Paramount",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png",
+                "slug": "assistir-paramount"
+            }
+        ],
+
+        "desenhosanimados": [
+            {
+                "id": 1,
+                "title": "Bis",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=bis",
+                "image":"https://1.bp.blogspot.com/-IZE1Fq_K1us/Vok_aBEK0RI/AAAAAAAAmkQ/fu-VKyVsMcoEsmNTusOurPtauq313LNsg/s1600/Canal%2BBis.png"
+            }
+            ,
+            {
+                "id": 2,
+                "title": "Boomerang",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=boomerang",
+                "image":"https://1.bp.blogspot.com/-qui5FZHluPg/Xs6zPCaFD0I/AAAAAAABoZg/cq-H9mtjghIIH3MhMfF78SNJVX6KtCQwACLcBGAsYHQ/s640/boomerang.png"
+            }
+            ,
+            {
+                "id": 3,
+                "title": "Cartoon Network",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=cartoon",
+                "image":"https://www.imagensempng.com.br/wp-content/uploads/2021/10/777.png"
+            }
+            ,
+            {
+                "id": 4,
+                "title": "Discovery Kids",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoverykids",
+                "image":"https://seeklogo.com/images/D/discovery-kids-logo-FCF71E0B9B-seeklogo.com.png"
+            }
+            ,
+            {
+                "id": 5,
+                "title": "Disney",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=disney",
+                "image":"https://www.pngmart.com/files/5/Disney-PNG-Picture.png"
+            }
+            ,
+            {
+                "id": 6,
+                "title": "Disney Junior",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=disneyjunior",
+                "image":"https://pbs.twimg.com/profile_images/1575938173028401174/HIsQXfRn_400x400.png"
+            }
+            ,
+            {
+                "id": 7,
+                "title": "Disney XD",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=disneyxd",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/2560px-Disney_XD_-_2015.svg.png"
+            }
+            ,
+            {
+                "id": 8,
+                "title": "Gloob",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=gloob",
+                "image":"https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png"
+            }
+            ,
+            {
+                "id": 9,
+                "title": "Gloobinho",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=gloobinho",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png"
+            }
+            ,
+            {
+                "id": 10,
+                "title": "NatGeo Kids",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeokids",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/2560px-Natgeo_Kids_logo.svg.png"
+            }
+            ,
+            {
+                "id": 11,
+                "title": "Nick Jr",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=nickjr",
+                "image":"https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png"
+            }
+            ,
+            {
+                "id": 12,
+                "title": "Nickelodeon",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=nick",
+                "image":"https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png"
+            }
+        ],
+
+        "variedades": [
+            {
+                "id": 1,
+                "title": "Discovery HomeiHalth",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoveryhomeihealth",
+                "image": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-4.png"
+            }
+            ,
+            {
+                "id": 2,
+                "title": "Discovery Theater",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoverytheater",
+                "image": "https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png"
+            }
+            ,
+            {
+                "id": 3,
+                "title": "HGTV",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hgtv",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png"
+            }
+            ,
+            {
+                "id": 4,
+                "title": "NatGeo Wild",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeowild",
+                "image": "https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/4318a99db0e8f07add141fd32943641c/284x160-Q75_4318a99db0e8f07add141fd32943641c.png"
+            }
+            ,
+            {
+                "id": 5,
+                "title": "Nat Geo",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeo",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
+            }
+            ,
+            {
+                "id": 6,
+                "title": "History",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=history",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"
+            }
+            ,
+            {
+                "id": 7,
+                "title": "SBT",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=sbt",
+                "image": "https://ligasolidaria.org.br/site/wp-content/uploads/2017/09/sbt-logo-1.png"
+            }
+            ,
+            {
+                "id": 8,
+                "title": "TV Record",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=record",
+                "image": "https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"
+            }
+            ,
+            {
+                "id": 9,
+                "title": "Band",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=band",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png"
+            }
+        ]
+
+    }
+]
