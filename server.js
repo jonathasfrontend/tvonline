@@ -6,11 +6,11 @@ const data = require('./data.json');
 app.use(express.json());
 app.use(cors());
 
-app.get("/clients", function(req, res) {
+app.get("/", function(req, res) {
   res.json(data);
 });
 
-app.get("/clients/:id", function(req, res) {
+app.get("/:id", function(req, res) {
     const { id } = req.params;
     const client = data.find(cli => cli.id == id);
   
@@ -18,7 +18,7 @@ app.get("/clients/:id", function(req, res) {
   
     res.json(client);
 });
-app.get("/clients/:filmesseries", function(req, res) {
+app.get("/:filmesseries", function(req, res) {
     const { id } = req.params;
     const client = data.find(cli => cli.id == id);
   
@@ -28,7 +28,7 @@ app.get("/clients/:filmesseries", function(req, res) {
 });
 
 
-app.post("/clients", function(req, res){
+app.post("", function(req, res){
     const { name, email } = req.body;
 
     // salvar
@@ -36,7 +36,7 @@ app.post("/clients", function(req, res){
     res.json({ name, email });
 })
 
-app.put("/clients/:id", function(req, res){
+app.put("/:id", function(req, res){
     const { id } = req.params;
     const client = data.find(cli => cli.id == id);
   
@@ -49,7 +49,7 @@ app.put("/clients/:id", function(req, res){
     res.json(client);
 })
 
-app.delete("/clients/:id", function(req, res){
+app.delete("/:id", function(req, res){
     const { id } = req.params;
     const clientsFiltered = data.filter(client => client.id != id);
   
