@@ -5,28 +5,28 @@
                 "id": 1,
                 "title": "Assistir Cinemax",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",
+                "image": "./assets/img/banners/Cinemax.png",
                 "slug": "assistir-cinemax"
             },
             {
                 "id": 2,
                 "title": "Assistir Megapix",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=megapix",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",
+                "image": "./assets/img/banners/Megapix.png",
                 "slug":"assistir-megapix"
             },
             {
                 "id": 3,
                 "title": "Assistir Space",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=space",
-                "image": "https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-space"
             },
             {
                 "id": 4,
                 "title": "Assistir FX",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=fx",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-fx"
             },
         
@@ -34,28 +34,28 @@
                 "id": 5,
                 "title": "Assistir HBO",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbo",
-                "image": "https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hbo"
             },
             {
                 "id": 6,
                 "title": "Assistir HBO 2",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbo2",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hbo2"
             },
             {
                 "id": 7,
                 "title": "Assistir HBO Famaly",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbofamily",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hbofamily"
             },
             {
                 "id": 8,
                 "title": "Assistir HBO Mundi",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbomundi",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hbomundi"
             },
         
@@ -63,98 +63,98 @@
                 "id": 9,
                 "title": "Assistir HBO +",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hboplus",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hboplus"
             },
             {
                 "id": 10,
                 "title": "Assistir HBO POP",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbopop",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hbopop"
             },
             {
                 "id": 11,
                 "title": "Assistir HBO Signature",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbosignature",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hbosignature"
             }
             ,{
                 "id": 12,
                 "title": "Assistir HBO Xtreme",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hboxtreme",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-hboxtreme"
             }
             ,{
                 "id": 12,
                 "title": "Assistir Telecine Action",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecineaction",
-                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-telecineaction"
             }
             ,{
                 "id": 13,
                 "title": "Assistir Telecine Cult",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinecult",
-                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-cult-252x252.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-telecinecult"
             }
             ,{
                 "id": 14,
                 "title": "Assistir Telecine Fun",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinefun",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-telecinefun"
             }
             ,{
                 "id": 15,
                 "title": "Assistir Telecine Pipoca",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepipoca",
-                "image": "https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-telecinepipoca"
             }
             ,{
                 "id": 16,
                 "title": "Assistir Telecine Premium",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepremium",
-                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-telecinepremium"
             }
             ,{
                 "id": 17,
                 "title": "Assistir Telecine Touch",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinetouch",
-                "image": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-telecinetouch"
             }
             ,{
                 "id": 18,
                 "title": "Assistir TNT",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=tnt",
-                "image": "https://www.tvmagazine.com.br/imagens/icones/600/tnt.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-tnt"
             }
             ,{
                 "id": 19,
                 "title": "Assistir TNT Series",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=tntseries",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-tntseries"
             }
             ,{
                 "id": 20,
                 "title": "Assistir Universal",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=universal",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-universal"
             }
             ,{
                 "id": 21,
                 "title": "Assistir Paramount",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png",
+                "image": "./assets/img/banners/.png",
                 "slug": "assistir-paramount"
             }
         ],
