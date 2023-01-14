@@ -348,36 +348,36 @@
             {
                 "id": 6,
                 "title": "Sportv",
-                "link": "",
-                "image": "./assets/img/banners/.png"
+                "link": "https://sinalpublico.com/player3/ch.php?canal=sportv1",
+                "image": "./assets/img/banners/sportv.png"
             }
            ,
             {
                 "id": 7,
                 "title": "Sportv 2",
-                "link": "",
-                "image": "./assets/img/banners/.png"
+                "link": "https://sinalpublico.com/player3/ch.php?canal=sportv2",
+                "image": "./assets/img/banners/sportv2.png"
             }
            ,
             {
                 "id": 8,
                 "title": "Sportv 3",
-                "link": "",
-                "image": "./assets/img/banners/.png"
+                "link": "https://sinalpublico.com/player3/ch.php?canal=sportv3",
+                "image": "./assets/img/banners/sportv3.png"
             }
            ,
             {
                 "id": 9,
                 "title": "Band Sports",
-                "link": "",
-                "image": "./assets/img/banners/.png"
+                "link": "https://sinalpublico.com/player3/ch.php?canal=bandsports",
+                "image": "./assets/img/banners/bandsports.png"
             }
            ,
             {
                 "id": 10,
                 "title": "Fox Sport 2",
-                "link": "",
-                "image": "./assets/img/banners/.png"
+                "link": "https://sinalpublico.com/player3/ch.php?canal=foxsports2",
+                "image": "./assets/img/banners/Foxsports.png"
             }
         ]
         
