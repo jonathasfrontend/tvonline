@@ -308,7 +308,71 @@
                 "link": "https://sinalpublico.com/player3/ch.php?canal=band",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png"
             }
+        ],
+        "sport": [
+            {
+                "id": 1,
+                "title": "Discovery HomeiHalth",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoveryhomeihealth",
+                "image": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-4.png"
+            }
+            ,
+            {
+                "id": 2,
+                "title": "Discovery Theater",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=discoverytheater",
+                "image": "https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png"
+            }
+            ,
+            {
+                "id": 3,
+                "title": "HGTV",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=hgtv",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png"
+            }
+            ,
+            {
+                "id": 4,
+                "title": "NatGeo Wild",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeowild",
+                "image": "https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/4318a99db0e8f07add141fd32943641c/284x160-Q75_4318a99db0e8f07add141fd32943641c.png"
+            }
+            ,
+            {
+                "id": 5,
+                "title": "Nat Geo",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeo",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
+            }
+            ,
+            {
+                "id": 6,
+                "title": "History",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=history",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"
+            }
+            ,
+            {
+                "id": 7,
+                "title": "SBT",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=sbt",
+                "image": "https://ligasolidaria.org.br/site/wp-content/uploads/2017/09/sbt-logo-1.png"
+            }
+            ,
+            {
+                "id": 8,
+                "title": "TV Record",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=record",
+                "image": "https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"
+            }
+            ,
+            {
+                "id": 9,
+                "title": "Band",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=band",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png"
+            }
         ]
-
+        
     }
 ]
