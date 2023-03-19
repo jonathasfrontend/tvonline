@@ -308,6 +308,13 @@
                 "link": "https://sinalpublico.com/player3/ch.php?canal=band",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png"
             }
+            ,
+            {
+                "id": 10,
+                "title": "Viva",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=viva",
+                "image": "https://gkpb.com.br/wp-content/uploads/2018/03/novo-logo-canal-viva.jpg"
+            }
         ],
         "sport": [
             {
