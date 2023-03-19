@@ -322,13 +322,7 @@
                 "link": "https://sinalpublico.com/player3/ch.php?canal=gnt",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png"
             }
-            ,
-            {
-                "id": 12,
-                "title": "Nat Geo",
-                "link": "https://sinalpublico.com/player3/ch.php?canal=natgeo",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
-            }
+            
         ],
         "sport": [
             {
