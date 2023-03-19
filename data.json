@@ -315,6 +315,13 @@
                 "link": "https://sinalpublico.com/player3/ch.php?canal=viva",
                 "image": "https://gkpb.com.br/wp-content/uploads/2018/03/novo-logo-canal-viva.jpg"
             }
+            ,
+            {
+                "id": 11,
+                "title": "Gnt",
+                "link": "https://sinalpublico.com/player3/ch.php?canal=gnt",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png"
+            }
         ],
         "sport": [
             {
