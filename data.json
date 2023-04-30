@@ -6,7 +6,7 @@
                 "title": "Assistir Cinemax",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
                 "image": "./assets/img/banners/Cinemax.png",
-                "image_reeact": "../assets/img/banners/Cinemax.png",
+                "image_react": "../assets/img/banners/Cinemax.png",
                 "slug": "assistir-cinemax"
             },
             {
@@ -14,7 +14,7 @@
                 "title": "Assistir Megapix",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=megapix",
                 "image": "./assets/img/banners/Megapix.png",
-                "image_reeact": "../assets/img/banners/Megapix.png",
+                "image_react": "../assets/img/banners/Megapix.png",
                 "slug":"assistir-megapix"
             },
             {
@@ -22,7 +22,7 @@
                 "title": "Assistir Space",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=space",
                 "image": "./assets/img/banners/space.png",
-                "image_reeact": "../assets/img/banners/space.png",
+                "image_react": "../assets/img/banners/space.png",
                 "slug": "assistir-space"
             },
             {
@@ -30,7 +30,7 @@
                 "title": "Assistir FX",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=fx",
                 "image": "./assets/img/banners/FX.png",
-                "image_reeact": "../assets/img/banners/FX.png",
+                "image_react": "../assets/img/banners/FX.png",
                 "slug": "assistir-fx"
             },
         
@@ -39,7 +39,7 @@
                 "title": "Assistir HBO",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbo",
                 "image": "./assets/img/banners/hbo.png",
-                "image_reeact": "../assets/img/banners/hbo.png",
+                "image_react": "../assets/img/banners/hbo.png",
                 "slug": "assistir-hbo"
             },
             {
@@ -47,7 +47,7 @@
                 "title": "Assistir HBO 2",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbo2",
                 "image": "./assets/img/banners/hbo2.png",
-                "image_reeact": "../assets/img/banners/hbo2.png",
+                "image_react": "../assets/img/banners/hbo2.png",
                 "slug": "assistir-hbo2"
             },
             {
@@ -55,7 +55,7 @@
                 "title": "Assistir HBO Famaly",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbofamily",
                 "image": "./assets/img/banners/HBO_Family_logo.png",
-                "image_reeact": "../assets/img/banners/HBO_Family_logo.png",
+                "image_react": "../assets/img/banners/HBO_Family_logo.png",
                 "slug": "assistir-hbofamily"
             },
             {
@@ -63,7 +63,7 @@
                 "title": "Assistir HBO Mundi",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbomundi",
                 "image": "./assets/img/banners/HBO_Mundi.svg.png",
-                "image_reeact": "../assets/img/banners/HBO_Mundi.svg.png",
+                "image_react": "../assets/img/banners/HBO_Mundi.svg.png",
                 "slug": "assistir-hbomundi"
             },
         
@@ -72,7 +72,7 @@
                 "title": "Assistir HBO +",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hboplus",
                 "image": "./assets/img/banners/HBO_Plus.png",
-                "image_reeact": "../assets/img/banners/HBO_Plus.png",
+                "image_react": "../assets/img/banners/HBO_Plus.png",
                 "slug": "assistir-hboplus"
             },
             {
@@ -80,7 +80,7 @@
                 "title": "Assistir HBO POP",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbopop",
                 "image": "./assets/img/banners/HBO_Pop.png",
-                "image_reeact": "../assets/img/banners/HBO_Pop.png",
+                "image_react": "../assets/img/banners/HBO_Pop.png",
                 "slug": "assistir-hbopop"
             },
             {
@@ -88,7 +88,7 @@
                 "title": "Assistir HBO Signature",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hbosignature",
                 "image": "./assets/img/banners/HBO_Signature.svg.png",
-                "image_reeact": "../assets/img/banners/HBO_Signature.svg.png",
+                "image_react": "../assets/img/banners/HBO_Signature.svg.png",
                 "slug": "assistir-hbosignature"
             }
             ,{
@@ -96,7 +96,7 @@
                 "title": "Assistir HBO Xtreme",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=hboxtreme",
                 "image": "./assets/img/banners/HBO_Xtreme.png",
-                "image_reeact": "../assets/img/banners/HBO_Xtreme.png",
+                "image_react": "../assets/img/banners/HBO_Xtreme.png",
                 "slug": "assistir-hboxtreme"
             }
             ,{
@@ -104,7 +104,7 @@
                 "title": "Assistir Telecine Action",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecineaction",
                 "image": "./assets/img/banners/app-telecine-action-252x252.png",
-                "image_reeact": "../assets/img/banners/app-telecine-action-252x252.png",
+                "image_react": "../assets/img/banners/app-telecine-action-252x252.png",
                 "slug": "assistir-telecineaction"
             }
             ,{
@@ -112,7 +112,7 @@
                 "title": "Assistir Telecine Cult",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinecult",
                 "image": "./assets/img/banners/app-telecine-cult-252x252.png",
-                "image_reeact": "../assets/img/banners/app-telecine-cult-252x252.png",
+                "image_react": "../assets/img/banners/app-telecine-cult-252x252.png",
                 "slug": "assistir-telecinecult"
             }
             ,{
@@ -120,7 +120,7 @@
                 "title": "Assistir Telecine Fun",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinefun",
                 "image": "./assets/img/banners/app-telecine-fun-252x252.png",
-                "image_reeact": "../assets/img/banners/app-telecine-fun-252x252.png",
+                "image_react": "../assets/img/banners/app-telecine-fun-252x252.png",
                 "slug": "assistir-telecinefun"
             }
             ,{
@@ -128,7 +128,7 @@
                 "title": "Assistir Telecine Pipoca",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepipoca",
                 "image": "./assets/img/banners/app-telecine-pipoca-252x252.png",
-                "image_reeact": "../assets/img/banners/app-telecine-pipoca-252x252.png",
+                "image_react": "../assets/img/banners/app-telecine-pipoca-252x252.png",
                 "slug": "assistir-telecinepipoca"
             }
             ,{
@@ -136,7 +136,7 @@
                 "title": "Assistir Telecine Premium",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepremium",
                 "image": "./assets/img/banners/app-telecine-premium-252x252.png",
-                "image_reeact": "../assets/img/banners/app-telecine-premium-252x252.png",
+                "image_react": "../assets/img/banners/app-telecine-premium-252x252.png",
                 "slug": "assistir-telecinepremium"
             }
             ,{
@@ -144,7 +144,7 @@
                 "title": "Assistir Telecine Touch",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=telecinetouch",
                 "image": "./assets/img/banners/app-telecine-touch-252x252.png",
-                "image_reeact": "../assets/img/banners/app-telecine-touch-252x252.png",
+                "image_react": "../assets/img/banners/app-telecine-touch-252x252.png",
                 "slug": "assistir-telecinetouch"
             }
             ,{
@@ -152,7 +152,7 @@
                 "title": "Assistir TNT",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=tnt",
                 "image": "./assets/img/banners/tnt.png",
-                "image_reeact": "../assets/img/banners/tnt.png",
+                "image_react": "../assets/img/banners/tnt.png",
                 "slug": "assistir-tnt"
             }
             ,{
@@ -160,7 +160,7 @@
                 "title": "Assistir TNT Series",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=tntseries",
                 "image": "./assets/img/banners/tntserie.png",
-                "image_reeact": "../assets/img/banners/tntserie.png",
+                "image_react": "../assets/img/banners/tntserie.png",
                 "slug": "assistir-tntseries"
             }
             ,{
@@ -168,7 +168,7 @@
                 "title": "Assistir Universal",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=universal",
                 "image": "./assets/img/banners/Universal.png",
-                "image_reeact": "../assets/img/banners/Universal.png",
+                "image_react": "../assets/img/banners/Universal.png",
                 "slug": "assistir-universal"
             }
             ,{
@@ -176,7 +176,7 @@
                 "title": "Assistir Paramount",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=paramount",
                 "image": "./assets/img/banners/Paramount_Network.png",
-                "image_reeact": "../assets/img/banners/Paramount_Network.png",
+                "image_react": "../assets/img/banners/Paramount_Network.png",
                 "slug": "assistir-paramount"
             }
         ],
