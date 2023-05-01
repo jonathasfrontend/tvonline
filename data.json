@@ -6,7 +6,7 @@
                 "title": "Assistir Cinemax",
                 "link": "https://sinalpublico.com/player3/ch.php?canal=cinemax",
                 "image": "./assets/img/banners/Cinemax.png",
-                "image_react": "/assets/img/banners/Cinemax.png",
+                "image_react": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",
                 "slug": "assistir-cinemax"
             },
             {
